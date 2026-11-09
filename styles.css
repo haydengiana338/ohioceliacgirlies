@@ -212,7 +212,7 @@ button {
 }
 
 .about-copy .about-last {
-  font:500 13px/1.7 'Playfair Display',serif;
+  font:400 clamp(16px,1.6vw,20px)/1.55 'Playfair Display',serif;
   margin-top:14px;
   color:#ffd6df
 }
